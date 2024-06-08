@@ -1,0 +1,20 @@
+C:\A Transfer\Web2StringSVC\Web2StringSVC\bin\Web2StringSVC.dll.config
+C:\A Transfer\Web2StringSVC\Web2StringSVC\bin\Web2StringSVC.dll
+C:\A Transfer\Web2StringSVC\Web2StringSVC\bin\Web2StringSVC.pdb
+C:\A Transfer\Web2StringSVC\Web2StringSVC\obj\Debug\Web2StringSVC.csproj.CoreCompileInputs.cache
+C:\A Transfer\Web2StringSVC\Web2StringSVC\obj\Debug\Web2StringSVC.dll
+C:\A Transfer\Web2StringSVC\Web2StringSVC\obj\Debug\Web2StringSVC.pdb
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\bin\Web2StringSVC.dll.config
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\bin\Web2StringSVC.dll
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\bin\Web2StringSVC.pdb
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.csproj.CoreCompileInputs.cache
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.dll
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.pdb
+C:\A Transfer\Tests\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.csproj.AssemblyReference.cache
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\bin\Web2StringSVC.dll.config
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\bin\Web2StringSVC.dll
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\bin\Web2StringSVC.pdb
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.csproj.AssemblyReference.cache
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.csproj.CoreCompileInputs.cache
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.dll
+C:\Users\ychen10\Dropbox (ASU)\Current in Dropbox\Mandarin Program\Course Development and Teaching\CSE598 Social Media Mining\Programming\Web2StringREST\Web2StringSVC\obj\Debug\Web2StringSVC.pdb

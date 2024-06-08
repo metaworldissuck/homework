@@ -1,0 +1,13 @@
+C:\A Transfer\Web2StringSVC\Web2StringTryIt\bin\Web2StringTryIt.dll.config
+C:\A Transfer\Web2StringSVC\Web2StringTryIt\bin\Web2StringTryIt.dll
+C:\A Transfer\Web2StringSVC\Web2StringTryIt\bin\Web2StringTryIt.pdb
+C:\A Transfer\Web2StringSVC\Web2StringTryIt\obj\Debug\Web2StringTryIt.csproj.CoreCompileInputs.cache
+C:\A Transfer\Web2StringSVC\Web2StringTryIt\obj\Debug\Web2StringTryIt.dll
+C:\A Transfer\Web2StringSVC\Web2StringTryIt\obj\Debug\Web2StringTryIt.pdb
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\bin\Web2StringTryIt.dll.config
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\bin\Web2StringTryIt.dll
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\bin\Web2StringTryIt.pdb
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\obj\Debug\Web2StringTryIt.csproj.CoreCompileInputs.cache
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\obj\Debug\Web2StringTryIt.dll
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\obj\Debug\Web2StringTryIt.pdb
+C:\A Transfer\Tests\Web2StringREST\Web2StringTryIt\obj\Debug\Web2StringTryIt.csproj.AssemblyReference.cache
